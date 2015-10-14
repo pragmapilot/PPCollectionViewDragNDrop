@@ -1,6 +1,8 @@
 # PPCollectionViewDragNDrop
 Simple app to explore several technical matters in Swift as well as the language it self.
 
+![Video Preview](./git_resources/ppcollectionviewdad.gif)
+
 Goals 
 =====
 
